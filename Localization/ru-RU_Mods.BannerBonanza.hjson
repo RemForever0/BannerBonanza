@@ -1,7 +1,7 @@
 Items: {
 	BannerRackItem: {
 		DisplayName: Стойка для баннеров
-		Tooltip: Разместите баннеры на стойке
+		Tooltip: Украсьте стойку баннерами.
 	}
 }
 
